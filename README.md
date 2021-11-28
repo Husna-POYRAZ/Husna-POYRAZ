@@ -17,5 +17,14 @@
  <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="40" height="40"/>
  <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="40" height="40"/> 
 </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Husna-POYRAZ" alt="Husna-POYRAZ" /> </p>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Husna-POYRAZ&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+ 
+<p align="center">
+	<a href="https://github.com/Husna-POYRAZ">
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Husna-POYRAZ&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="Husna-POYRAZ"/>
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Husna-POYRAZ&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="Husna-POYRAZ"/>
+	</a>
+</p>
