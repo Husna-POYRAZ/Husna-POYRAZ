@@ -18,9 +18,7 @@
  <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="40" height="40"/> 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Husna-POYRAZ" alt="Husna-POYRAZ" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Husna-POYRAZ&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
  
 <p align="center">
 	<a href="https://github.com/Husna-POYRAZ">
