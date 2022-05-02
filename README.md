@@ -1,7 +1,7 @@
 ### Hi,I'm Hüsna 👋
 
-- 🔭 I’m currently working on Tensorflow.
-- 🌱 I’m currently learning Data Science and Artificial Intelligence.
+- 🔭 I’m currently working on JMeter and Selenium.
+- 🌱 I’m currently learning Artificial Intelligence and Test Automation.
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/h%C3%BCsna-poyraz/">LinkedIn</a>, <a href = "https://husnapoyraz.medium.com/">Medium</a>
 - **Languages and Tools:**
  <p align="left">
