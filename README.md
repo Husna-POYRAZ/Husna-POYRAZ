@@ -27,3 +27,5 @@
 		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Husna-POYRAZ&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="Husna-POYRAZ"/>
 	</a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Husna-POYRAZ&label=Profile%20views&color=0e75b6&style=flat" alt="Husna-POYRAZ" /> </p>
