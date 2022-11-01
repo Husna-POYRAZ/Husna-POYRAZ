@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on JMeter and Selenium.
 - 🌱 I’m currently learning Artificial Intelligence and Test Automation.
-- 📫 How to reach me: <a href = "https://www.linkedin.com/in/h%C3%BCsna-poyraz/">LinkedIn</a>, <a href = "https://husnapoyraz.medium.com/">Medium</a>
+- 📫 How to reach me: <a href = "https://www.linkedin.com/in/h%C3%BCsna-poyraz/">LinkedIn</a>, <a href = "https://medium.com/@husnapoyraz88">Medium</a>
 - **Languages and Tools:**
  <p align="left">
  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
