@@ -21,10 +21,8 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/Husna-POYRAZ">
-		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Husna-POYRAZ&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="Husna-POYRAZ"/>
-		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Husna-POYRAZ&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="Husna-POYRAZ"/>
-	</a>
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husna-POYRAZ&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 </p>
+<br>
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aHusna-POYRAZ&theme=gotham)](https://git.io/streak-stats)-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Husna-POYRAZ&label=Profile%20views&color=0e75b6&style=flat" alt="Husna-POYRAZ" /> </p>
