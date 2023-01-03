@@ -21,8 +21,8 @@
 </p>
 
 <p align="center">
-<img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husna-POYRAZ&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+ <img height='200px' src="https://github-readme-stats.vercel.app/api?username=Husna-POYRAZ&show_icons=true&theme=great-gatsby" alt="hpoyraz" />
+<img align="" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husna-POYRAZ&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 </p>
-<br>
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aHusna-POYRAZ&theme=gotham)](https://git.io/streak-stats)-->
+
 
