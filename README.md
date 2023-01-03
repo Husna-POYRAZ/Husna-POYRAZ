@@ -20,7 +20,6 @@
  <img src="https://user-images.githubusercontent.com/75911392/182019236-6a5fba18-f791-4a17-a737-e407ae54f131.png" alt="jmeter" width="80" height="40"/>
 </p>
 
-
 <p align="center">
 	<a href="https://github.com/Husna-POYRAZ">
 		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Husna-POYRAZ&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="Husna-POYRAZ"/>
