@@ -1,6 +1,6 @@
 ### Hi,I'm Hüsna 👋
 
-- 🔭 I’m currently working on React and Java.
+- 🔭 I’m currently working on Java and Docker.
 - 🌱 I’m currently learning full stack development and test automation.
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/h%C3%BCsna-poyraz/">LinkedIn</a>, <a href = "https://medium.com/@husnapoyraz88">Medium</a>
 - **Languages and Tools:**
