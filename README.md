@@ -1,7 +1,7 @@
 ### Hi,I'm Hüsna 👋
 
-- 🔭 I’m currently working on Java, Docker and Kubernetes.
-- 🌱 I’m currently learning backend development and test automation.
+- 🔭 I’m currently working on Java, React, Docker and Kubernetes.
+- 🌱 I’m currently learning backend and frontend development.
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/h%C3%BCsna-poyraz/">LinkedIn</a>, <a href = "https://medium.com/@husnapoyraz88">Medium</a>
 - **Languages and Tools:**
  <p align="left">
